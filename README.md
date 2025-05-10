@@ -1,8 +1,10 @@
-# Students Dashboard
+  # Students Dashboard
 
 Please Follow these steps to perfecctly run this perfectly on your device
 
-go to terminal and run "npm run dev" in the directory
+go to terminal and run "npm install" in the directory
+
+After installation, run "npm run dev"
 
 open another Terminal 
 
